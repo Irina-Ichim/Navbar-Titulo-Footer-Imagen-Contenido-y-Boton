@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://grupoemmanuel.com.co/wp-content/uploads/2021/02/Grupo-Emmanuel-onix-768x1023.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 800px;
+
+}
+h1{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+
+}
